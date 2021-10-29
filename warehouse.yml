@@ -1,0 +1,4 @@
+db.hostName="?"
+db.databaseName="warehouse"
+db.userName="usernameToDatabase"
+db.password="passwordToDatabase"
